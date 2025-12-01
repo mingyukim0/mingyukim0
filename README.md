@@ -1,1 +1,1 @@
-# Embedded Systems Developer & Data Analyst
+# Embedded Systems & Data Analytics
